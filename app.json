@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "spontaneous-yellow-apples",
+    "slug": "snack-c9a094e1-ec8a-4fc0-a2c4-18ff26f9374f",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.saikrishna_24.snackc9a094e1ec8a4fc0a2c418ff26f9374f"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "224e45db-6589-4c58-ab30-d20423298218"
+      }
+    }
+  }
+}
